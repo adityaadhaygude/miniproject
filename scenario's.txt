@@ -1,0 +1,12 @@
+1.change language  					sc_01 change language
+2.mouse hover	   					sc_02 mouse hover effect
+3.discounted price 					sc_03 Product details
+4.Page broken link 					sc_04 Hyper links functionality
+5.is Email & phone no clickable 			sc_04 Hyper links functionality
+6.is products link woking  				sc_04 Hyper links functionality
+7.is cart item removable(button working)		sc_05 Button functionality
+8.is add to cart button working				sc_05 Button functionality
+9.is logout button working				sc_05 Button functionality
+10. is checkout button working				sc_05 Button functionality
+11.is collection links working 				sc_04 Hyper links functionality
+12.is register&sign in link working			sc_04 Hyper links functionality

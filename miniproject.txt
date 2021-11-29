@@ -1,0 +1,4 @@
+Testing application: 			Shopizer
+locally hosted: 			yes(working perfectly)
+web hosted link: 			http://demo.shopizer.com:8080/shop/
+api documentation localhost link: 	http://localhost:8080/swagger-ui.html

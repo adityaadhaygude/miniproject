@@ -1,0 +1,25 @@
+mouse over checking and validating
+new price is showing or not(discounted)
+stars
+check for brocken links
+check email and name is clickable or not on home page
+inputs given also send
+testng report
+
+in UI testing assertion is must
+--------------------------------------------------------------------------------
+sunil's points
+POM
+DDT
+Properties
+TestNG
+Maven Project
+Git
+Peer review
+Loggers
+Exception handling
+best practices
+integration
+Important Assertions in each script to check if something done successful.
+Reporting - Extent/ Allure
+--------------------------------------------------------------------------------
